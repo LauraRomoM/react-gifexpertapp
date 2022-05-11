@@ -1,0 +1,9 @@
+Temas puntuales de la sección
+
+¿Qué veremos en esta sección?
+
+* Aprender cómo realizar backups a repositorios de Git
+* Subir nuestro repositorio a GitHub
+* Uso de Github Pages
+* Desplegar nuestra aplicación de React
+* Generar build de producción de nuestra aplicación
